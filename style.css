@@ -1,0 +1,47 @@
+#quizBody {
+    background-color: white;
+    border: 4px solid black;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.buttons001 {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 100px;
+    
+}
+
+.buttons002 {
+    background-color: gray;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 150px;
+}
+
+#quizField {
+    text-align: center;
+}
+
+#text002 {
+    text-align: left;
+}
+
+#green001 {
+    color: green;
+}
+
+#red001 {
+    color: red;
+}
+#message001 {
+    text-align: center;
+}
